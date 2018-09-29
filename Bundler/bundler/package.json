@@ -1,0 +1,25 @@
+{
+  "name": "bundler",
+  "version": "1.0.0",
+  "description": "Bundler for compilation SCSS | Less | JS",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "SCSS",
+    "LESS",
+    "JS",
+    "Scss",
+    "to",
+    "css",
+    "less",
+    "to",
+    "css"
+  ],
+  "author": "Viney Sharma",
+  "license": "ISC"
+}
